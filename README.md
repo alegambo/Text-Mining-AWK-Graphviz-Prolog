@@ -5,6 +5,6 @@ Desarrollar un pequeño “microcompilador” que tome el plan de estudios que s
 
 2. Un programa SWI-Prolog que permita hacer consultas a la malla curricular de la Universidad Nacional de Costa Rica utilizando los lenguajes AWK-Graphviz y Swipl Prolog.
 
-Para ejecutarlo, se posiciona en la carpeta llamada work-grupo5-1pm y se ejecuta el comando ./runall.sh y este creará un archivo Prolog donde se podrá realizar la consulta que se especifica en el enunciado y creará un pdf con el dibujo de la maya curricular. 
+Para ejecutarlo, se posiciona en la carpeta llamada work-grupo5-1pm y se ejecuta el comando ./runall.sh y este creará un archivo Prolog donde se podrá realizar la consulta que se especifica en el enunciado y creará un pdf con el dibujo de la malla curricular. 
 
 Probado en windows con Cygwin, en Linux y en Mac
