@@ -1,7 +1,7 @@
 # Text-Mining-AWK-Graphviz-Prolog
 Desarrollar un pequeño “microcompilador” que tome el plan de estudios que se le entrega en formato textual y produzca dos resultados independientes: 
 
-1. Un grafo en formato graphviz como el que se le entrega de modelo que permita ver las dependencias entre los cursos de la malla curricular (ver caso de uso más adelante). 
+1. Un grafo en formato graphviz y en .pdf que permita ver las dependencias entre los cursos de la malla curricular.
 
 2. Un programa SWI-Prolog que permita hacer consultas a la malla curricular de la Universidad Nacional de Costa Rica utilizando los lenguajes AWK-Graphviz y Swipl Prolog.
 
